@@ -9,7 +9,8 @@
  - Exploratory Data Analysis (EDA) is an approach to learning about a data set.The main purpose is to examine and summarizethe data to make sense out of the otherwise overwhelming mass of  information.  Data  exploration  and  visualization  provide  tools  for  ensuring  appropriate  and accurate descriptions of the data. EDA can help a data scientist or data analyst to:
 - Determine the quality of data
 - Find outliers and other errors or anomalies
-- Identify possible analysesDiscover potential patterns/relationships
+- Identify possible analyses
+- Discover potential patterns/relationships
 - Identify influential variables
 - Visualizations to derive inferences from data
 ## Advantages of Exploratory Data Analysis
@@ -17,8 +18,17 @@
 - It helps in detecting outliers in most effective way.
 - Helps   in   answering   questions   about   standard   deviations,   categorical   variables,   and confidence intervals.
 - Once  EDA  is  complete  and  insights  are  drawn,  its  features  can  then  be  used  for  more sophisticated data analysisor modeling, including machine learning.
+#### EDA is a three step process:
+- Data Acquisition
+- Data Wrangling
+- Data Analysis
+
 # Repository Overview
 This repository is about different EDA approaches as per the industry practices.
 ## Table of Contents
 - EDA on Zomato Data Set
-![](https://raw.githubusercontent.com/bushra-31/Exploratory-Data-Analysis/main/Images/zomato.jpeg)
+
+------------
+
+
+![](https://raw.githubusercontent.com/bushra-31/Exploratory-Data-Analysis/main/EDA%20on%20zomato/zomato.jpeg)
