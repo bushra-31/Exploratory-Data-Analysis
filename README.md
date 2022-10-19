@@ -32,3 +32,6 @@ This repository is about different EDA approaches as per the industry practices.
 
 
 ![](https://raw.githubusercontent.com/bushra-31/Exploratory-Data-Analysis/main/EDA%20on%20zomato/zomato.jpeg)
+
+
+[link to jupyter notebook](http://https://github.com/bushra-31/Exploratory-Data-Analysis/blob/7922cf83dba1d445af13ef936ec85697a2787c5e/EDA%20on%20zomato/zomato%20jupyter%20notebook%20file.ipynb "link to jupyter notebook")
