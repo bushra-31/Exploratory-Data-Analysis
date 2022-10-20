@@ -36,6 +36,11 @@ This repository is about different EDA approaches as per the industry practices.
 ![](https://raw.githubusercontent.com/bushra-31/Exploratory-Data-Analysis/main/EDA%20on%20zomato/zomato.jpeg)
 
 
-[link to jupyter notebook](http://https://github.com/bushra-31/Exploratory-Data-Analysis/blob/7922cf83dba1d445af13ef936ec85697a2787c5e/EDA%20on%20zomato/zomato%20jupyter%20notebook%20file.ipynb "link to jupyter notebook")
+- [link to jupyter notebook](http://https://github.com/bushra-31/Exploratory-Data-Analysis/blob/7922cf83dba1d445af13ef936ec85697a2787c5e/EDA%20on%20zomato/zomato%20jupyter%20notebook%20file.ipynb "link to jupyter notebook")
+
+- EDA and Feature engineering on Black Friday Dataset
+
+![](https://raw.githubusercontent.com/bushra-31/Exploratory-Data-Analysis/main/EDA%20on%20zomato/blackfriday-predictions-2018.jpeg)
 
 
+- [link to jupyter notebook](https://github.com/bushra-31/Exploratory-Data-Analysis/blob/58ea919d72f501c3758172e0fed23d77ca0f6d7f/EDA%20and%20feature%20Engineering%20on%20Black%20friday%20sales/black%20friday%20.ipynb "link to jupyter nootebook")
